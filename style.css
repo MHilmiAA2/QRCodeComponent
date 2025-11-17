@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: #d5e1ef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+section {
+    padding: 1rem;
+    border-radius: 1rem;
+    text-align: center;
+    width: 17rem;
+    height: auto;
+    background-color: #fff;
+}
+
+section img.imgQR {
+    background-color: #2b7dfa;
+    border-radius: 0.5rem;
+    width: 16.5rem;
+}
+
+section h1.title {
+    font-size: 22px;
+}
+
+section p.desc {
+    color: gray;
+}
